@@ -20,6 +20,7 @@ Data Science practitioner focused on turning raw data into clear, actionable ins
 ### 🛠️ Tools & Technologies
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Jupyter` `Git`
+`Machine Learning` `Deep Learning`
 
 ---
 
